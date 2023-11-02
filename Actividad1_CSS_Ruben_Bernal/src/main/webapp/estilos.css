@@ -1,0 +1,24 @@
+/*Ruben Bernal Ramos*/
+
+.fondo{
+	background: aqua;
+}
+.azul{
+	color: blue;
+}
+.rojo{
+	color: red;
+}
+.gris{
+	background: silver;
+}
+.centro{
+	text-align: center;
+}
+.derecha{
+	text-align: right;
+}
+.fuente{
+	font-family:verdana;
+	font-size:20px;
+}
